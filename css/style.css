@@ -6,4 +6,55 @@ header{
 
 h2{
     font-size: 70px;
+    display: inline-block;
+    margin-right: 74px;
+}
+
+nav{
+    display:  inline-block;
+}
+
+li{
+    display:  inline-block;
+    margin-right: 103px;
+}
+
+section{
+    width: 1280px;
+    margin: 0 auto;
+    padding: 174px 105px 152px 95px;
+    background-color: #306B34;
+    display: inline-block;
+   
+}
+
+.section_img{
+    width: 679px;
+    
+}
+
+.section_txt{
+    display: inline-block;
+    width: 306px;
+    margin-left: 89px;
+    vertical-align: top;
+    
+    
+    
+}
+
+h3{
+    font-size: 40px;
+    color: #19381F;
+    display: inline-block;
+    
+   
+
+}
+
+p{
+    margin-top: 50px;
+    font-size: 20px;
+    color: #F4F4F1;
+    font-style: italic;
 }
