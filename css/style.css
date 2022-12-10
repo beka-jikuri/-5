@@ -1,8 +1,11 @@
+
+
+
 header{
     width: 1280px;
     margin: 0 auto;
     padding: 17px 66px 39px 44px;
-    border: 5px solid red;
+    
 }
 
 h2{
@@ -27,7 +30,7 @@ section{
     margin: 0 auto;
     padding: 174px 105px 152px 95px;
     background-color: #306B34;
-    display: inline-block;
+    
    
 }
 
@@ -67,7 +70,8 @@ p{
 article{
     width: 1280px;
     padding: 75px 138px 33px 184px;
-    
+    margin: 0 auto;
+
     
 }
 
@@ -105,5 +109,6 @@ footer{
     width: 1280px;
     background-color: #306B34;
     margin-top: 33px;
+    margin: 0 auto;
 
 }
