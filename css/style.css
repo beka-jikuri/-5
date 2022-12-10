@@ -2,6 +2,7 @@ header{
     width: 1280px;
     margin: 0 auto;
     padding: 17px 66px 39px 44px;
+    border: 5px solid red;
 }
 
 h2{
@@ -17,7 +18,9 @@ nav{
 li{
     display:  inline-block;
     margin-right: 103px;
+    color: #7F7F7F;
 }
+/* მორჩა ჰედერი და იწყება სექცია */
 
 section{
     width: 1280px;
@@ -57,4 +60,50 @@ p{
     font-size: 20px;
     color: #F4F4F1;
     font-style: italic;
+}
+
+/* მორჩა სექცია და იწყება არტიკლი */
+
+article{
+    width: 1280px;
+    padding: 75px 138px 33px 184px;
+    
+    
+}
+
+
+
+h3{
+display: block;
+margin-bottom: 33px;
+margin-top: 75px;
+font-style: italic;
+text-align: center;
+
+}
+
+.art_img{
+    width: 958px;
+    height: 126px;
+    margin-bottom: 69px;
+}
+
+.btn{
+    width: 148px;
+    height: 48px;
+    color: white;
+    background-color: #36413E;
+    display: block;
+    margin: 0 auto;
+    
+    
+}
+
+/* მორჩა არტიკლი და იწყება ფუთერი */
+
+footer{
+    width: 1280px;
+    background-color: #306B34;
+    margin-top: 33px;
+
 }
